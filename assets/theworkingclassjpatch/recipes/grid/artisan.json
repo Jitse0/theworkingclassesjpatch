@@ -631,7 +631,7 @@
 		}
 	},
 	{
-		"ingredientPattern": "BDH,VDD,GDH",
+		"ingredientPattern": "BDH,VMD,GDH",
 		"requiresTrait": "artisan",
 		"ingredients": {
 			"B": {
